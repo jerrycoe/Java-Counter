@@ -11,4 +11,5 @@ following methods only:
 <li>current value of count returned</li>
 <li>increment the count by 1</li>
 <li>decrement the count by 1, but should not allow the value of the count to become negative</li>
-
+<br/>
+<img src="screenshot.png" />
